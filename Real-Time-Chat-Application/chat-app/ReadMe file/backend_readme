@@ -1,0 +1,4 @@
+npm install express mongoose dotenv jsonwebtoken bcrypt cookie-parser cloudinary socket.io
+
+
+npm i cores

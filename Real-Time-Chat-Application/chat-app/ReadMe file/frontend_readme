@@ -1,0 +1,5 @@
+npm create vite@latest
+
+
+<!-- I am using chakra ui -->
+npm i -D chakra@latest
